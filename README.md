@@ -1,3 +1,6 @@
+ PHP Programs Collection – Semester Project
+
+
 📌 Overview
 This repository contains all the PHP programs and practicals I have completed during my semester. It covers fundamental to intermediate concepts of PHP including form handling, string manipulation, file handling, sessions, and database connectivity.
 
